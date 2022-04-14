@@ -1,2 +1,2 @@
-# wishobneandpartners.io
+# wishboneandpartners.io
 wishbone + partners
